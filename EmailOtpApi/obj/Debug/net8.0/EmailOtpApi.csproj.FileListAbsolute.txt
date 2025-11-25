@@ -151,3 +151,4 @@ C:\Users\HP\Documents\CDAC Project\EmailOtpApi\obj\Debug\net8.0\refint\EmailOtpA
 C:\Users\HP\Documents\CDAC Project\EmailOtpApi\obj\Debug\net8.0\EmailOtpApi.pdb
 C:\Users\HP\Documents\CDAC Project\EmailOtpApi\obj\Debug\net8.0\EmailOtpApi.genruntimeconfig.cache
 C:\Users\HP\Documents\CDAC Project\EmailOtpApi\obj\Debug\net8.0\ref\EmailOtpApi.dll
+C:\Users\HP\Documents\CDAC Project\EmailOtpApi\obj\Debug\net8.0\EmailOtpApi.sourcelink.json
